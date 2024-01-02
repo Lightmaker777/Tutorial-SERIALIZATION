@@ -1,4 +1,6 @@
-# [Tutorial: Serialization](https://www.django-rest-framework.org/tutorial/1-serialization/#tutorial-1-serialization) ![Alt text](snippets_images/image.png)
+![image.png](https://i.makeagif.com/media/4-05-2022/FvBVst.gif)
+
+# [Tutorial: Serialization](https://www.django-rest-framework.org/tutorial/1-serialization/#tutorial-1-serialization)
 
 ## Tutorial Part I:
 
