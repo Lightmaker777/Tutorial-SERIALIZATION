@@ -1,8 +1,26 @@
 push your code here
 
 
-# Code Snippets:
+# Code Snippets
 
-![snippets](snippets/snippets.png)
-![snippets](snippets/snippets2.png)
+## Tutorial Part I:
+
+![snippets](snippets_images/snippets.png)
+
+![snippets](snippets_images/snippets2.png)
+
+## Tutorial Part II:
+
+![snippets](snippets_images/snippets3.png)
+
+![snippets](snippets_images/snippets4.png)
+
+![snippets](snippets_images/snippets5.png)
+
+![snippets](snippets_images/snippets6.png)
+
+![snippets](snippets_images/snippets7.png)
+
+## Tutorial Part III:
+
 
