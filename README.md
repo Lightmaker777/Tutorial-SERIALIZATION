@@ -1,7 +1,4 @@
-push your code here
-
-
-# Code Snippets
+# [Tutorial: Serialization](https://www.django-rest-framework.org/tutorial/1-serialization/#tutorial-1-serialization) ![Alt text](snippets_images/image.png)
 
 ## Tutorial Part I:
 
@@ -25,4 +22,13 @@ push your code here
 
 ![snippets](snippets_images/snippets8.png)
 
+## Tutorial Part V:
+
+![snippets](snippets_images/snippets9.png)
+
+## Tutorial Part VI:
+
+![snippets](snippets_images/snippets10.png)
+
+# END OF TUTORIAL  ![Alt text](snippets_images/image-1.png)
 
