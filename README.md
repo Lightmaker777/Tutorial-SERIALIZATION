@@ -21,6 +21,8 @@ push your code here
 
 ![snippets](snippets_images/snippets7.png)
 
-## Tutorial Part III:
+## Tutorial Part III and IV:
+
+![snippets](snippets_images/snippets8.png)
 
 
